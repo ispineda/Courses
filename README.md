@@ -1,6 +1,6 @@
 # Machine-Learning-IoTicos-Udemy
 
-## Examples
+## Ejemplos
 Contiene ejemplos del curso
 
 ## Ejercicios
